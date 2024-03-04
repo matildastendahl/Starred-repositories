@@ -47,7 +47,7 @@ This application allows user's to login to their GitHub account and retrieve the
 
 - FastAPI: Python web framework for building APIs.
 - Requests: HTTP library for making requests to the GitHub API.
-- HTML/CSS: Frontend templates for rendering the UI.
+- HTML/CSS: Templates for rendering the UI.
 - pytest: Testing framework for unit testing.
 
 ## Contributors
