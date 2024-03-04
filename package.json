@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cscfi/csc-ui": "^2.1.1"
+  }
+}
